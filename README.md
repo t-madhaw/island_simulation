@@ -1,12 +1,12 @@
-# population_sim
+Aera_Simulation
 
-This is a simulation of fictional floating island, Hangwook in the middle of ocean. The island has no modern instituitions(hospitals). 
+This is a simulation of a fictional floating island, Aera in the middle of blue sky and clouds. The island has no modern instituitions(hospitals). 
 
 How the island works:
 
 FARMING
 1. The food is produced through farming. Everyone over the age of 11 works in the fields to produce food.
-2. Each person consumes one unit of food each month. In case of food scarcity, people die.
+2. Each person consumes one unit of food each month. In case of food scarcity, people die due to famine. All excess food is stored for the next year.
 
 POPULATION GROWTH
 1. Women can get pregnant between the age of 16 to 35.
