@@ -1,6 +1,8 @@
 Aera_Simulation
 
-This is a simulation of a fictional floating island, Aera in the middle of blue sky and clouds. The island has no modern instituitions(hospitals). 
+This is a simulation of a fictional floating island. The island has no modern instituitions(hospitals). 
+
+This project was undertaken for exploratory data analysis.
 
 How the island works:
 
